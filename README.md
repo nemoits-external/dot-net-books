@@ -1,6 +1,4 @@
-Sure! Here is a simpler assignment that can be completed within two days, focusing on key aspects of .NET development, including web development with ASP.NET Core, basic database integration, and API creation.
-
-### Assignment: Book Management System
+### Assignment: Book Management
 
 **Description:**
 Create a simple Book Management System that allows users to perform CRUD (Create, Read, Update, Delete) operations on books.
